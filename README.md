@@ -1,6 +1,5 @@
 ## Hi there 
 
-<img src="https://pbs.twimg.com/media/G6svOPEa0AEh_rG?format=jpg&name=medium" alt="gaziadib" style="margin: 2px auto;" />
 
 <h1 align="center">Hi 👋, I'm <b>Gazi Monirul Islam (Adib)</b></h1>
 <h2 align="center">Full Stack Web & AI Engineer & Data Analyst </h2>
