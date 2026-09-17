@@ -15,7 +15,6 @@
 Hey, I’m Gazi Monirul Islam (Adib). I graduated from Daffodil International University from the Department of CSE in 2019. Currently I am working and building web apps for my client and thus enriching my portfolio using Next.js, React, FastAPI, Django, Laravel. I love mixing AI/ML features into real-world projects things like object detection, Computer vision-based Disease Detection projects, and NLP based projects like sentiment analysis, Resume Parser, and LLM based Chatbots with RAG using Langchain & Langgraph. I enjoy creating clean, scalable systems, whether it’s a LMS (learning platform) field or an e-commerce field or any management-based system, or AI-powered apps. When I’m not coding, I’m probably playing cricket, building tutorials for global audience on my personal YouTube channel called GreatAdib (11.4k+ subs), or learning something new to level up my skills.
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gaziadib&label=Profile%20views&color=0e75b6&style=flat" alt="gaziadib" />
 </p>
 
 <p align="left">
